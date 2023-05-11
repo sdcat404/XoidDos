@@ -540,7 +540,7 @@ def usage():
     print()
     print('-----------------------------------------------------------------------------------------------------------')
     print()
-    print(xoid_BANNER)
+    print(XOID_BANNER)
     print()
     print(' USAGE: ./xoiddos.py <url> [OPTIONS]')
     print()
