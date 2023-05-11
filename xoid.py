@@ -26,12 +26,7 @@ in order to bring them to their knees by exhausting the resource pool.
 This tool is meant for research purposes only
 and any malicious usage of this tool is prohibited.
 
-@author Jan Seidl <http://wroot.org/>
 
-@date 2014-02-18
-@version 2.1
-
-@TODO Test in python 3.x
 
 LICENSE:
 This software is distributed under the GNU General Public License version 3 (GPLv3)
@@ -67,7 +62,7 @@ JOIN_TIMEOUT = 1.0
 DEFAULT_WORKERS = 10
 DEFAULT_SOCKETS = 500
 
-XOID_BANNER = 'Xoid Dos by GoldenEye v2.1 '
+XOID_BANNER = 'Xoid Dos v1.0 '
 
 USER_AGENT_PARTS = {
     'os': {
