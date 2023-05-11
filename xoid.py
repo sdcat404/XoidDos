@@ -151,7 +151,7 @@ class Xoid(object):
 
         # Taunt!
         print()
-        print(GOLDENEYE_BANNER)
+        print(XOID_BANNER)
         print()
 
     # Do the fun!
