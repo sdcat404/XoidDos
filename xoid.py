@@ -627,7 +627,7 @@ def main():
             except EnvironmentError:
                 error("cannot read file {0}".format(uas_file))
 
-        xoid = Goldeneye(url)
+        xoid = Xoid(url)
         xoid.useragents = useragents
         xoid.nr_workers = workers
         xoid.method = method
